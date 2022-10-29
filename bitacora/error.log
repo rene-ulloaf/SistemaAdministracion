@@ -1,0 +1,415 @@
+fecha: 21-04-2012 21:05:36
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: 
+----------------------
+
+fecha: 21-04-2012 21:05:36
+codigo: Access denied for user 'www-data'@'localhost' (using password: NO)
+error: 1045
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 38
+otro: 
+----------------------
+
+fecha: 01-05-2012 19:35:28
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server [localhost] user[root] - pass[cumbia]
+----------------------
+
+fecha: 01-05-2012 19:38:20
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 19:38:30
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 19:38:44
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 19:39:06
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 19:45:15
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 19:48:00
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 19:49:01
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 19:49:37
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 19:49:55
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 19:51:07
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 19:51:25
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 19:51:29
+codigo: Access denied for user 'www-data'@'localhost' (using password: NO)
+error: 1045
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 38
+otro: 
+                Select count(su.idSesionUsuario)
+                From SesionUsuario su 
+                Join Usuario u On su.idUsuario = u.idUsuario
+                Where u.nombreUsuario = 'rulloa'
+                And u.clave = '1'
+                And su.idSistema = 1 
+                And su.vigente = 1
+                And u.vigente = 1;
+            
+----------------------
+
+fecha: 01-05-2012 19:57:58
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 19:58:03
+codigo: Access denied for user 'www-data'@'localhost' (using password: NO)
+error: 1045
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 38
+otro: 
+                Select count(su.idSesionUsuario)
+                From SesionUsuario su 
+                Join Usuario u On su.idUsuario = u.idUsuario
+                Where u.nombreUsuario = 'rulloa'
+                And u.clave = '1'
+                And su.idSistema = 1 
+                And su.vigente = 1
+                And u.vigente = 1;
+            
+----------------------
+
+fecha: 01-05-2012 19:58:40
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 19:59:01
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 19:59:13
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 19:59:21
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 19:59:25
+codigo: Access denied for user 'www-data'@'localhost' (using password: NO)
+error: 1045
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 38
+otro: 
+                Select count(su.idSesionUsuario)
+                From SesionUsuario su 
+                Join Usuario u On su.idUsuario = u.idUsuario
+                Where u.nombreUsuario = 'rulloa'
+                And u.clave = '1'
+                And su.idSistema = 1 
+                And su.vigente = 1
+                And u.vigente = 1;
+            
+----------------------
+
+fecha: 01-05-2012 20:00:21
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 20:00:27
+codigo: Access denied for user 'www-data'@'localhost' (using password: NO)
+error: 1045
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 38
+otro: 
+                Select count(su.idSesionUsuario)
+                From SesionUsuario su 
+                Join Usuario u On su.idUsuario = u.idUsuario
+                Where u.nombreUsuario = 'rulloa'
+                And u.clave = '1'
+                And su.idSistema = 1 
+                And su.vigente = 1
+                And u.vigente = 1;
+            
+----------------------
+
+fecha: 01-05-2012 20:00:55
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 20:00:58
+codigo: Access denied for user 'www-data'@'localhost' (using password: NO)
+error: 1045
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 38
+otro: 
+                Select count(su.idSesionUsuario)
+                From SesionUsuario su 
+                Join Usuario u On su.idUsuario = u.idUsuario
+                Where u.nombreUsuario = 'rulloa'
+                And u.clave = '1'
+                And su.idSistema = 1 
+                And su.vigente = 1
+                And u.vigente = 1;
+            
+----------------------
+
+fecha: 01-05-2012 20:26:18
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 20:26:53
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 20:27:36
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 20:28:07
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 20:29:11
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 20:29:39
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 20:30:42
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 20:32:20
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 20:34:49
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 20:34:55
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 20:36:12
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 20:36:26
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 20:37:46
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 20:37:53
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 20:38:13
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 20:38:17
+codigo: Access denied for user 'www-data'@'localhost' (using password: NO)
+error: 1045
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 38
+otro: 
+                Select count(su.idSesionUsuario)
+                From SesionUsuario su 
+                Join Usuario u On su.idUsuario = u.idUsuario
+                Where u.nombreUsuario = 'rulloa'
+                And u.clave = '1'
+                And su.idSistema = 1 
+                And su.vigente = 1
+                And u.vigente = 1;
+            
+----------------------
+
+fecha: 01-05-2012 20:46:44
+codigo: Unknown MySQL server host 'Server' (1)
+error: 2005
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 11
+otro: server:[localhost] - user:[root] - pass:[cumbia]
+----------------------
+
+fecha: 01-05-2012 20:46:48
+codigo: Access denied for user 'www-data'@'localhost' (using password: NO)
+error: 1045
+pagina: /home/chechex/proyectos/Web/PHP/sistema_administracion/lib/BD.php
+linea: 38
+otro: 
+                Select count(su.idSesionUsuario)
+                From SesionUsuario su 
+                Join Usuario u On su.idUsuario = u.idUsuario
+                Where u.nombreUsuario = 'rulloa'
+                And u.clave = '1'
+                And su.idSistema = 1 
+                And su.vigente = 1
+                And u.vigente = 1;
+            
+----------------------
+
